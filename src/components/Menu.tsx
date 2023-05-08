@@ -3,6 +3,8 @@ import { useState } from "react";
 
 import "./Menu.css";
 
+// comment
+
 type Props = {
     onAction(action: "reset" | "new-round"): void;
 };
